@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackParameters: false
+ColumnLimit: 120
+AccessModifierOffset: -1
+IndentWidth: 2
+DerivePointerAlignment: false
+PointerAlignment: Left
+AlignEscapedNewlines: Left
+AlignConsecutiveAssignments: true
+AlignOperands: true
+AlignTrailingComments: true
+AlignAfterOpenBracket:  DontAlign
+ContinuationIndentWidth: 8
+NamespaceIndentation: None
